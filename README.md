@@ -1,2 +1,2 @@
 # Olympics-algo
-https://book.douban.com/subject/25902102/
+算法竞赛入门经典（第2版）
